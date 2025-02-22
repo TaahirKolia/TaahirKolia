@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Information Engineering
 -----------------------
 
-I am a MSc Student and Information Engineering Honours Graduate at the University of Witwatersrand. I am a passionate and astute learner whose interests lie in Software Engineering, Data Science and Engineering, and all things IoT related. 
+I am a MSc Student, Information Engineering Honours Graduate, and Data Engineering Intern at the University of Witwatersrand. I am a passionate and astute learner whose interests lie in Software Engineering, Data Science and Engineering, and all things IoT related. 
 
 My current reserach is focused on leveraging Large Language Models (LLMs) to generate dashboard visualisations for clinics addressing multi-morbidity rates in South Africa.
 
