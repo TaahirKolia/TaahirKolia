@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Information Engineering
 -----------------------
 
-I am an Information Engineering Honours student at the University of Witwatersrand. I am a passionate and astute learner whose interests lie in Software Development, Machine Learning, and all things IoT related. 
+I am a MSc Student and Information Engineering Honours Graduate at the University of Witwatersrand. I am a passionate and astute learner whose interests lie in Software Engineering, Data Science and Engineering, and all things IoT related. 
 
-The notable courses that I am currently enrolled in include : Software Development III, Machine Learning, Secure Computing, System Management and Integration, Sociology, Measurement Systems, Information Engineering Design, and Information Engineering Research.
+My current reserach is focused on leveraging Large Language Models (LLMs) to generate dashboard visualisations for clinics addressing multi-morbidity rates in South Africa.
 
 * 🌍  I'm based in Johannesburg
 * ✉️  You can contact me at [koliataahir1@gmail.com](mailto:koliataahir1@gmail.com)
